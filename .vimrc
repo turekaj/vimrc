@@ -14,9 +14,9 @@ Plugin 'VundleVim/Vundle.vim'
 
 "utility
 
-Plugin 'scrooloose/nerdtree'
+"Plugin 'scrooloose/nerdtree'
 Plugin 'tpope/vim-fugitive'
-Plugin 'majutsushi/tagbar'
+"Plugin 'majutsushi/tagbar'
 Plugin 'wesQ3/vim-windowswap'
 Plugin 'vim-scripts/a.vim'
 "Plugin 'SirVer/ultisnips'
@@ -24,9 +24,9 @@ Plugin 'vim-scripts/a.vim'
 "Plugin 'honza/vim-snippets'
 
 "generic programming support
-Plugin 'jakedouglas/exuberant-ctags'
+"Plugin 'jakedouglas/exuberant-ctags'
 Plugin 'Townk/vim-autoclose'
-Plugin 'Valloric/YouCompleteMe'
+"Plugin 'Valloric/YouCompleteMe'
 
 
 
